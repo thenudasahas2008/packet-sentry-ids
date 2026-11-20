@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "2026-11-20T10:00:00",
+    "src_ip": "192.168.1.50",
+    "dst_ip": "10.0.0.1",
+    "src_port": 50123,
+    "dst_port": 80,
+    "protocol": "TCP",
+    "length": 64,
+    "tcp_flags": "SYN,ACK"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:01",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40001,
+    "dst_port": 21,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:01",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40002,
+    "dst_port": 22,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:01",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40003,
+    "dst_port": 23,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:01",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40004,
+    "dst_port": 25,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:01",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40005,
+    "dst_port": 53,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:02",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40006,
+    "dst_port": 80,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:02",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40007,
+    "dst_port": 110,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:02",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40008,
+    "dst_port": 143,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:02",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40009,
+    "dst_port": 443,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:03",
+    "src_ip": "198.51.100.99",
+    "dst_ip": "10.0.0.5",
+    "src_port": 40010,
+    "dst_port": 3389,
+    "protocol": "TCP",
+    "length": 60,
+    "tcp_flags": "SYN"
+  },
+  {
+    "timestamp": "2026-11-20T10:00:05",
+    "src_ip": "192.168.1.105",
+    "dst_ip": "8.8.8.8",
+    "src_port": 54210,
+    "dst_port": 53,
+    "protocol": "UDP",
+    "length": 98,
+    "dns_query": "dGhpcy1pcy1hbi1leGZpbHRyYXRpb24tdGVzdC1wYXlsb2Fk.c2.attacker.com"
+  }
+]
