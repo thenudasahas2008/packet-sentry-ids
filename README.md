@@ -31,9 +31,3 @@ python -m packetsentry.cli --file samples/attack_traffic_sample.json
 ```bash
 pytest -v tests
 ```
-
----
-
-## Author
-- **Thenuda Sahas** ([@thenudasahas2008](https://github.com/thenudasahas2008))
-- License: MIT License
